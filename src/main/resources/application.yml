@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ApiRest-CRUD
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/ApiRest-CRUD
+    username: postgres
+    password: 1234
